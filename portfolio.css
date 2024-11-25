@@ -1,0 +1,33 @@
+header{
+    background-color: gray;
+    color: white;
+    padding: 10px; 
+    text-align: center;
+    font-size:larger;
+    position: sticky;
+    /* position: relative; */
+}
+.size{
+    font-size:larger;
+}
+.d1,.navbar a{
+    text-decoration: none;
+    background-color: rgb(213, 198, 198);
+    /* display: inline; */
+    padding: 10px;
+    text-align: center;
+    position: sticky;
+    
+}
+.main{
+    height: 500px;
+    /* width: 700px; */
+    overflow: auto;
+}
+.p,.t,.s,.e,.p,.pr,.c{
+    background-color:rgb(99, 177, 245);
+}
+:target{
+    background-color: rgb(243, 129, 142);
+
+}
