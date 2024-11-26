@@ -12,12 +12,16 @@ header{
 }
 .d1,.navbar a{
     text-decoration: none;
-    background-color: rgb(213, 198, 198);
+    /* background-color: rgb(213, 198, 198); */
     /* display: inline; */
     padding: 10px;
     text-align: center;
     position: sticky;
     
+    
+}
+.d1{
+    background-color: rgb(213, 198, 198);;
 }
 .main{
     height: 500px;
